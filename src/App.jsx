@@ -40,6 +40,7 @@ const App = () => {
 
   return (
     <div className="container">
+      <h1>Weather App</h1>
       <div className="search-box">
         <input 
           type="text" 
